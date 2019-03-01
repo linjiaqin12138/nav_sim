@@ -2,7 +2,7 @@
 
   <arg name="robot" default="xbot-u"/>
   <arg name="debug" default="false"/>
-  <arg name="gui" default="true"/>
+  <arg name="gui" default="false"/>
   <arg name="headless" default="false"/>
 
   <!-- Start Gazebo with a blank world -->
